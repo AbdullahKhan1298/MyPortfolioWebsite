@@ -393,6 +393,7 @@ span{
     border-radius: 50%;
 }
 .education-content .content{
+    color: #ededed;
     position: relative;
     padding: 1.5rem;
     border: .2rem solid #00abf0;
@@ -430,6 +431,13 @@ span{
     font-size: 2rem;
 }
 
+.education-content .content .project-title a{
+    font-size: 2rem;
+    font-weight: 600;
+    color: #ededed;
+    margin-bottom: 1rem;
+}
+   
 .education-content .content h4{
     font-size: 1.4rem;
     padding-top: .3rem;
